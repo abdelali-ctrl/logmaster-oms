@@ -8,10 +8,6 @@ A full-stack Java EE web application for order management with real-time logging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green)
 
-## 🎬 Demo
-
-![LogMaster Demo](screenshots/demo.webp)
-
 ---
 
 ## 📋 Table of Contents
