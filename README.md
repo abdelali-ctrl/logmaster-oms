@@ -8,6 +8,10 @@ A full-stack Java EE web application for order management with real-time logging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green)
 
+## 🎬 Demo
+
+![LogMaster Demo](screenshots/demo.webp)
+
 ---
 
 ## 📋 Table of Contents
@@ -262,19 +266,13 @@ logmaster/
 ## 🎨 Screenshots
 
 ### Dashboard
-- Order statistics cards with color-coded statuses
-- MongoDB aggregation results
-- 24-hour error chart (Admin only)
+![Dashboard](screenshots/dashboard.png)
 
 ### Shopping Cart
-- Multi-product selection
-- Real-time quantity adjustment
-- Automatic total calculation
+![Cart](screenshots/cart.png)
 
 ### Order Management
-- Filter by status
-- Order details view
-- Status update workflow
+![Order Management](screenshots/order_management.png)
 
 ---
 
